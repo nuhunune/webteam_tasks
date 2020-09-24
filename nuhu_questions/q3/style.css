@@ -1,0 +1,10 @@
+div{
+	display: block;
+	font-size: 20px;
+	width: 20px;
+	height: 29px;
+	overflow: hidden;
+}
+div:hover{
+	width: 200px;
+}
