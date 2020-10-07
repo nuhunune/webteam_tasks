@@ -1,0 +1,20 @@
+body{ color:black; text-align:center;background-image:url(1.png);background-size:cover;overflow-Y:hidden;overflow-X:hidden;margin:0;}
+h1{background:brack;color:yellow;border-radius:0px;font-size:10em;line-height:0em;margin-top:-0.25em;margin-bottom:0.5em;}
+h6.y{background:yellow;color:yellow;line-height:5em;}
+h6.r{color:red;font-size:6em;margin:0em;line-height:0.5em;}
+rt{margin-bottom:0em;}
+div{opacity:0.8;background:black;}
+
+#k,#d{display:inline-block;white-space: nowrap;padding:20px;vertical-align:middle;animation:k 2s linear infinite reverse;}
+.ke{width:1000px;}
+
+
+@keyframes k{
+0%{
+transform:rotate(0deg);
+}
+100%{
+transform:translateX(-1000px);
+}
+}
+
